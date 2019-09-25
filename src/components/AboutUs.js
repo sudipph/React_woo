@@ -4,7 +4,7 @@ import React from 'react';
 const AboutUs = () => {
     return (
         <div>
-            <h1>About Us</h1>
+            <h1>About Us Check</h1>
 
             <p>Contributors to this project:</p>
 
