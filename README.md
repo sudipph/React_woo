@@ -32,3 +32,4 @@ You should add you the Woocommerce headers this line:
 ```
 header('Access-Control-Allow-Headers: Content-Type, x-xsrf-token, x_csrftoken');
 ```
+# React_woo
